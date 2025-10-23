@@ -48,7 +48,7 @@ Key benefits of this system:
 | **9-lab_jupyter_fe_course_sim.ipynb**                  | Computes course similarity using BoW features and cosine similarity. Identifies courses related to a target course.                                            |
 | **10-neural_collaborative_filtering.ipynb**            | Neural Collaborative Filtering (NCF) using PyTorch. Trains a deep learning recommender, evaluates predictions, and visualizes training and prediction results. |
 
-
+fix_notebooks.py is for GitHub to render the files better and more clearly
 ---
 
 ## **Key Features**
