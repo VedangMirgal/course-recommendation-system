@@ -1,6 +1,6 @@
 #  IBM Machine Learning with Python & Scikit-learn Capstone Projects
 
-This repository contains notebooks I completed (using the course_ratings.csv dataset) as part of the "IBM Machine Learning with Python & Scikit-learn" course.  
+This repository contains notebooks I completed (using the course_ratings.csv and other datasets) as part of the "IBM Machine Learning with Python & Scikit-learn" course.  
 
 ## Attribution
 - IBM provided starter code, datasets, and notebook structure.  
